@@ -1,7 +1,7 @@
 ## Hi, I'm Dhruvi Kantariya 👋
 
 🎓 BSc Data Science Student 
-🎯 Goal: Beacome good data scientist
+🎯 Goal: Become good data scientist
 💻 Currently Working On: Building my Data Science fundamentals
 🌱 Learning: Python • SQL • Machine Learning • Statistics
 📫 Reach Me: dhruvikantariya23@gmail.com
@@ -12,5 +12,6 @@
 Python
 SQL
 Pandas
-Scikit-Learn
-Git
+Power BI 
+Machine learning 
+
