@@ -19,6 +19,8 @@ Python
 
 SQL
 
+hadoop
+
 Pandas
 
 Power BI
