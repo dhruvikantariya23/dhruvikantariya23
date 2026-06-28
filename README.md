@@ -2,7 +2,7 @@
 
 🎓 BSc Data Science Student 
 
-🎯 Goal: Become good data scientist
+🎯 Goal: Become a good Data scientist
 
 💻 Currently Working On: Building my Data Science fundamentals\
 
