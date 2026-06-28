@@ -10,8 +10,18 @@
 🛠️ Tech Stack
 
 Python
+
+
 SQL
+
+
 Pandas
+
+
 Power BI
-Machine learning 
+
+
+Machine learning
+
+
 
