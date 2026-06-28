@@ -12,6 +12,6 @@
 Python
 SQL
 Pandas
-Power BI 
+Power BI
 Machine learning 
 
